@@ -34,4 +34,7 @@ Our project aims to create an efficient waste management system to handle rabbit
 - **Minimize manual labor** required in rabbit production facilities.
 - **Develop a scalable system** adaptable for various production sizes.
 
+For additional project details, see our [PowerPoint presentation](https://docs.google.com/presentation/d/1jwrfu0hvk9oI7jYrSxByEbPxNXPlBhjPth0v0p9b0AQ/edit?usp=sharing). 
+
 Our solution will be an innovative step toward sustainable, efficient waste management in the rabbit production industry.
+
