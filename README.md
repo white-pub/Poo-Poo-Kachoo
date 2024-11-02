@@ -1,8 +1,6 @@
 # Poo-Poo-Kachoo
 This is a potential solution for a conveyor system that automates the process of collecting and removing small caged animal waste.
 
-# Waste Management Solution for Rabbit Production
-
 ## Team Members
 
 **Kailyn Paul**  
