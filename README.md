@@ -1,5 +1,5 @@
 # Poo-Poo-Kachoo
-This is a potential solution for a conveyor system that automates the process of collecting and removing small caged animal waste.
+### This is a potential solution for a conveyor system that automates the process of collecting and removing small caged animal waste.
 
 ## Team Members
 
