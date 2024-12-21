@@ -1,5 +1,6 @@
 # Poo-Poo-Kachoo
 ### This is a potential solution for a conveyor system that automates the process of collecting and removing small caged animal waste.
+**Presented on Nebraska Tech Builders Challenge (November 1st-2nd, 2024)**
 
 ## Team Members
 
